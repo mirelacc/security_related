@@ -18,6 +18,7 @@ https://blog.sldx.com/
 http://www.michaelnielsen.org/ddi/how-the-bitcoin-protocol-actually-works/
 
 
+
 ## - Enigma / MIT:
 
 "Run Code On Encrypted Data - Secure data & protect privacy without compromising functionality”
@@ -34,6 +35,7 @@ Bob McElrath explains some aspects, like the multi-party-computation:
 https://www.youtube.com/watch?v=Z4K_Rn8QWGo
 
 
+
 ## - Programming Smart contracts :
 
 http://21.co/
@@ -41,6 +43,7 @@ http://21.co/
 https://medium.com/@ConsenSys/a-101-noob-intro-to-programming-smart-contracts-on-ethereum-695d15c1dab4#.okb3fwnkl
 
 http://cryptorials.io/a-beginners-guide-to-smart-contracts/
+
 
 
 ## - Ethereum:
@@ -54,11 +57,13 @@ https://media.consensys.net/2016/08/09/ethereum-isnt-turing-complete-and-it-does
 http://www.meetup.com/IC3-NYC-Blockchain-Meetup/events/233642736  (Town Crier: An Authenticated Data Feed for Smart Contracts - Prof. Ari Juels)
 
 
+
 ## - Hawk / "Blockchain Model of Cryptography and Privacy-Preserving Smart Contracts”
 
 https://webcache.googleusercontent.com/search?q=cache:JE2IkaQDUZ4J:https://eprint.iacr.org/2015/675.pdf+&cd=13&hl=nl&ct=clnk&gl=nl
 
 https://eprint.iacr.org/2015/675.pdf
+
 
 
 ## - Limitations:
@@ -87,6 +92,7 @@ http://asia.nikkei.com/Business/AC/Thai-banks-implement-blockchain-to-become-reg
 -->> http://www.blockchainofthings.com/ 
 
 
+
 ## - Mics / Resources:
 
 https://twitter.com/aantonop 
@@ -100,6 +106,14 @@ https://www.youtube.com/channel/UCt-Po2gFQxiUngwJXh6s04w/videos
 http://www.bitcoinwednesday.com/profile-alexander-vasylchenko-of-grid-singularity/ 
 
 http://gridsingularity.com/#/0/1
+
+
+
+## - Wallets:
+
+https://bitpay.com
+
+https://blog.bitpay.com/introducing-bitpay-app/
 
 
 
