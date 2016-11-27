@@ -8,6 +8,13 @@ https://blendle.com/i/trouw/leo-waar-blijft-die-quantum-computer/bnl-trn-2016112
 
 https://uwaterloo.ca/institute-for-quantum-computing/news/iqc-researchers-successfully-conduct-airborne-demonstration?utm_source=iqc_social_organic&utm_medium=twitter&utm_campaign=New_Research&hootPostID=4b06177449d1668474105af99ff73a80
 
+https://www.quora.com/How-does-quantum-key-distribution-work#
+
+https://www.quora.com/profile/Claude-Cr%C3%A9peau 
+
+https://www.quora.com/topic/Cryptography
+
+http://dblp.uni-trier.de/pers/hd/c/Cr=eacute=peau:Claude
 
 
 ## - Quantum physics
@@ -15,3 +22,5 @@ https://uwaterloo.ca/institute-for-quantum-computing/news/iqc-researchers-succes
 http://www.nature.com/news/quantum-physics-what-is-really-real-1.17585
 
 http://www.nature.com/news/quantum-spookiness-passes-toughest-test-yet-1.18255
+
+
