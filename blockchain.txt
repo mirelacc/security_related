@@ -1,5 +1,4 @@
 
-
 ## - General info:
 
 http://www.initc3.org/publications.html
@@ -62,7 +61,6 @@ https://webcache.googleusercontent.com/search?q=cache:JE2IkaQDUZ4J:https://eprin
 https://eprint.iacr.org/2015/675.pdf
 
 
- 
 ## - Limitations:
  
 - Transaction frequency: 
