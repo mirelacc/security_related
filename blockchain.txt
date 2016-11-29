@@ -1,6 +1,8 @@
 
 ## - General info:
 
+-> https://www.linkedin.com/groups/4243277
+
 http://www.initc3.org/publications.html
 
 http://www.meetup.com/IC3-NYC-Blockchain-Meetup/events/231588722
@@ -16,6 +18,7 @@ http://ledgerjournal.org/ojs/index.php/ledger/index
 https://blog.sldx.com/
 
 http://www.michaelnielsen.org/ddi/how-the-bitcoin-protocol-actually-works/
+
 
 
 
