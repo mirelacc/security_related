@@ -17,9 +17,11 @@ http://security.stackexchange.com/questions/139493/is-signal-still-more-secure-t
 
 
 
-# RKHUNTER
+# Rootkits & RKHUNTER
 
 https://en.wikipedia.org/wiki/Rkhunter
+
+https://d0hnuts.com/2016/12/21/basics-of-making-a-rootkit-from-syscall-to-hook/
 
 https://www.youtube.com/watch?v=mCh9L7-SU6M
 
