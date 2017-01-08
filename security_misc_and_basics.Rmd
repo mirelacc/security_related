@@ -1,0 +1,52 @@
+
+
+# Encryption
+
+"Cryptography Terms and Concepts for Developers"
+
+https://dev.to/paragonie/you-wouldnt-base64-a-password-cryptography-terms-and-concepts-for-developers
+
+"Mylar is an experimental research platform for building web applications with end-to-end encryption. 
+Mylar encrypts data fields indicated as sensitive by a developer."
+
+https://css.csail.mit.edu/mylar/
+
+Singal (vs. x)
+
+http://security.stackexchange.com/questions/139493/is-signal-still-more-secure-than-whatsapp
+
+
+
+# RKHUNTER
+
+https://en.wikipedia.org/wiki/Rkhunter
+
+https://www.youtube.com/watch?v=mCh9L7-SU6M
+
+https://www.youtube.com/watch?v=_9bDqzhHqwc
+
+https://www.youtube.com/watch?v=Zqs0CXfqVfU
+
+http://www.webhostingtalk.com/showthread.php?t=1035164
+
+http://serverfault.com/questions/229942/warning-flagged-by-the-rkhunter
+
+http://askubuntu.com/questions/652979/rkhunter-and-chkrootkit
+
+https://help.ubuntu.com/community/RKhunter
+
+https://ubuntuforums.org/archive/index.php/t-895441.html
+
+https://www.google.nl/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8&client=ubuntu#q=chkrootkit%20vs%20rkhunter
+
+https://linux-audit.com/dealing-with-linux-malware-insights-by-the-author-of-rkhunter/
+
+https://linux-audit.com/tools-compared-rkhunter-vs-lynis/
+
+
+
+# Botnets
+
+https://en.wikipedia.org/wiki/Botnet
+
+
