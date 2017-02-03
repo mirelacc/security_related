@@ -11,7 +11,7 @@ https://www.youtube.com/watch?v=OfWj89oRD7g
 https://www.youtube.com/watch?v=eKH7lqj7C8w
 
 
-## -  Critique:
+## -  Criticism:
 
 http://heinonline.org/HOL/LandingPage?handle=hein.journals/vanep16&div=28&id=&page= 
 (pdf via jetlaw.org/google scholar)
@@ -19,7 +19,7 @@ http://heinonline.org/HOL/LandingPage?handle=hein.journals/vanep16&div=28&id=&pa
 https://medium.com/@Practical/differential-privacy-considered-harmful-f420ce717846#.gjdk4gh0h
 
 
-## -  Critique of the critique:
+## -  Criticism of the criticism:
 
 https://github.com/frankmcsherry/blog/blob/master/posts/2016-02-03.md
 
