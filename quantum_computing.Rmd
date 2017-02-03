@@ -5,6 +5,10 @@ https://blendle.com/i/trouw/leo-waar-blijft-die-quantum-computer/bnl-trn-2016112
 
 https://hackage.haskell.org/package/QIO
 
+Quantum recommendation systems:
+
+https://www.youtube.com/watch?v=fvERLz9Ux80
+
 
 ## - Quantum key distribution
 
