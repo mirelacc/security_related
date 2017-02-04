@@ -5,8 +5,11 @@ TL;DR version:
 
 https://en.wikipedia.org/wiki/Differential_privacy
 
+Cynthia Dwork (creator of ~)
 https://www.youtube.com/watch?v=OfWj89oRD7g
 (goes until #5)
+
+Towards Practical Machine Learning with Differential Privacy and Beyond
 
 https://www.youtube.com/watch?v=eKH7lqj7C8w
 
