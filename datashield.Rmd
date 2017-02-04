@@ -11,21 +11,11 @@ https://academic.oup.com/ije/article/43/6/1929/707730/DataSHIELD-taking-the-anal
 
 https://www.ebi.ac.uk/training/online/course/genomics-introduction-ebi-resources/european-genome-phenome-archive-ega 
 
-http://www.obiba.org/node/63
-
 https://www.maelstrom-research.org/ 
 
 http://www.obiba.org/?q=node/1
 
-https://www.bioshare.eu/content/healthy-obese-project
-
-https://www.bioshare.eu/
-
-http://obiba.org/node/174 
-
 http://wiki.obiba.org/display/OPALDOC/Home 
-
-https://www.bioshare.eu/datashieldgui/
 
 http://www.elixir-europe.org/ 
 
@@ -39,3 +29,6 @@ http://genomicsandhealth.org/
 
 http://creativecommons.org/licenses/by-nc/4.0/
 
+http://www.bristol.ac.uk/social-community-medicine/research/groups/data2knowledge/current-research-projects/dash-ing/
+
+https://www.humanbrainproject.eu/sp8;jsessionid=1h62iybb6tu0sk1ohfuf23slq
