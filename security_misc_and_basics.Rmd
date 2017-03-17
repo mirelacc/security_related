@@ -3,6 +3,7 @@ http://www.techrepublic.com/article/a-visual-map-of-emerging-cybersecurity-trend
 
 https://www.linkedin.com/pulse/responsible-disclosure-from-collaborative-security-olaf-kolkman?trk=hp-feed-article-title-publish
 
+https://www.secsign.com/usb-authentication-keys-tokens-bad-idea/
 
 
 # Encryption
