@@ -3,6 +3,7 @@
 - https://www.linkedin.com/pulse/responsible-disclosure-from-collaborative-security-olaf-kolkman?trk=hp-feed-article-title-publish
 - https://www.secsign.com/usb-authentication-keys-tokens-bad-idea/
 - https://www.wordfence.com/blog/2017/02/cloudflare-data-leak/
+- https://bugs.chromium.org/p/project-zero/issues/detail?id=1139
 
 # Encryption
 
