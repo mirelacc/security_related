@@ -4,6 +4,7 @@
 - https://www.secsign.com/usb-authentication-keys-tokens-bad-idea/
 - https://www.wordfence.com/blog/2017/02/cloudflare-data-leak/
 - https://bugs.chromium.org/p/project-zero/issues/detail?id=1139
+- http://thehackernews.com/2017/03/decrypt-pgp-encryption.html
 
 # Encryption
 
