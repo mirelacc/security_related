@@ -4,7 +4,16 @@
 - https://www.secsign.com/usb-authentication-keys-tokens-bad-idea/
 - https://www.wordfence.com/blog/2017/02/cloudflare-data-leak/
 - https://bugs.chromium.org/p/project-zero/issues/detail?id=1139
+
+
+Digital attack map:
+
+- http://www.digitalattackmap.com/#anim=1&color=0&country=ALL&list=0&time=17241&view=map
+
+Researchers:
+
 - http://www.patrickmcdaniel.org/
+- check among "following" on twitter!
 
 # Encryption
 
