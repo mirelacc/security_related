@@ -4,22 +4,18 @@
 - https://www.secsign.com/usb-authentication-keys-tokens-bad-idea/
 - https://www.wordfence.com/blog/2017/02/cloudflare-data-leak/
 - https://bugs.chromium.org/p/project-zero/issues/detail?id=1139
-- http://thehackernews.com/2017/03/decrypt-pgp-encryption.html
+- http://www.patrickmcdaniel.org/
 
 # Encryption
 
-"Cryptography Terms and Concepts for Developers"
+- "Cryptography Terms and Concepts for Developers": https://dev.to/paragonie/you-wouldnt-base64-a-password-cryptography-terms-and-concepts-for-developers
+- "Mylar is an experimental research platform for building web applications with end-to-end encryption. Mylar encrypts data fields indicated as sensitive by a developer." https://css.csail.mit.edu/mylar/
+- PGP gone wrong: http://thehackernews.com/2017/03/decrypt-pgp-encryption.html
 
-- https://dev.to/paragonie/you-wouldnt-base64-a-password-cryptography-terms-and-concepts-for-developers
+Practicalities:
 
-"Mylar is an experimental research platform for building web applications with end-to-end encryption. 
-Mylar encrypts data fields indicated as sensitive by a developer."
-
-- https://css.csail.mit.edu/mylar/
-
-Singal (vs. x)
-
-- http://security.stackexchange.com/questions/139493/is-signal-still-more-secure-than-whatsapp
+- Singal vs. whatsapp http://security.stackexchange.com/questions/139493/is-signal-still-more-secure-than-whatsapp
+- GPG (:/) https://moxie.org/blog/gpg-and-me/
 
 
 # Rootkits & RKHUNTER
