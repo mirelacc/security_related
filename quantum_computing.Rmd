@@ -1,33 +1,27 @@
 
 ## - Quantum computing
 
-http://www.economist.com/technology-quarterly/2017-03-09/quantum-devices
-
-https://blendle.com/i/trouw/leo-waar-blijft-die-quantum-computer/bnl-trn-20161126-7396321
-
-https://hackage.haskell.org/package/QIO
+- http://www.economist.com/technology-quarterly/2017-03-09/quantum-devices
+- https://blendle.com/i/trouw/leo-waar-blijft-die-quantum-computer/bnl-trn-20161126-7396321
+- https://hackage.haskell.org/package/QIO
 
 Quantum recommendation systems:
 
-https://www.youtube.com/watch?v=fvERLz9Ux80
+- https://www.youtube.com/watch?v=fvERLz9Ux80
+- http://nodogmapodcast.bryanhogan.net/68-michael-biercuk-quantum-computing/
 
 
 ## - Quantum key distribution
 
-https://uwaterloo.ca/institute-for-quantum-computing/news/iqc-researchers-successfully-conduct-airborne-demonstration?utm_source=iqc_social_organic&utm_medium=twitter&utm_campaign=New_Research&hootPostID=4b06177449d1668474105af99ff73a80
-
-https://www.quora.com/How-does-quantum-key-distribution-work#
-
-https://www.quora.com/profile/Claude-Cr%C3%A9peau 
-
-https://www.quora.com/topic/Cryptography
-
-http://dblp.uni-trier.de/pers/hd/c/Cr=eacute=peau:Claude
+- https://uwaterloo.ca/institute-for-quantum-computing/news/iqc-researchers-successfully-conduct-airborne-demonstration?utm_source=iqc_social_organic&utm_medium=twitter&utm_campaign=New_Research&hootPostID=4b06177449d1668474105af99ff73a80
+- https://www.quora.com/How-does-quantum-key-distribution-work#
+- https://www.quora.com/profile/Claude-Cr%C3%A9peau 
+- https://www.quora.com/topic/Cryptography
+- http://dblp.uni-trier.de/pers/hd/c/Cr=eacute=peau:Claude
 
 
 ## - Quantum physics
 
-http://www.nature.com/news/quantum-physics-what-is-really-real-1.17585
-
-http://www.nature.com/news/quantum-spookiness-passes-toughest-test-yet-1.18255
+- http://www.nature.com/news/quantum-physics-what-is-really-real-1.17585
+- http://www.nature.com/news/quantum-spookiness-passes-toughest-test-yet-1.18255
 
