@@ -1,27 +1,14 @@
 
-www1.unece.org/stat/platform/display/bigdata/Big+Data+in+Official+Statistics 
-
-www1.unece.org/stat/platform/display/bigdata/Classification+of+Types+of+Big+Data 
-
-fsecurify.com/machine-learning-based-password-strength-checking/ 
-
-https://digitalguardian.com/blog/expert-panel-top-considerations-comparing-data-classification-tools 
-
-www.computerweekly.com/feature/Data-classification-why-it-is-important-and-how-to-do-it 
-
-https://digitalguardian.com/blog/what-data-classification-data-classification-definition
-
-searchdatamanagement.techtarget.com/definition/data-classification 
-
-searchsecurity.techtarget.com/feature/Tips-for-creating-a-data-classification-policy 
-
-https://iapp.org/about/what-is-privacy/ 
-
-www.cmu.edu/iso/governance/guidelines/index.html 
-
-http://www.cmu.edu/iso/governance/guidelines/data-classification.html#calculations
-
-https://webcache.googleusercontent.com/search?q=cache:Q7X0-mX5hoAJ:https://www.isoc.org/isoc/conferences/ndss/11/pdf/2_2.pdf+&cd=1&hl=nl&ct=clnk&gl=nl
-
-
+- www1.unece.org/stat/platform/display/bigdata/Big+Data+in+Official+Statistics 
+- www1.unece.org/stat/platform/display/bigdata/Classification+of+Types+of+Big+Data 
+- fsecurify.com/machine-learning-based-password-strength-checking/ 
+- https://digitalguardian.com/blog/expert-panel-top-considerations-comparing-data-classification-tools 
+- www.computerweekly.com/feature/Data-classification-why-it-is-important-and-how-to-do-it 
+- https://digitalguardian.com/blog/what-data-classification-data-classification-definition
+- searchdatamanagement.techtarget.com/definition/data-classification 
+- searchsecurity.techtarget.com/feature/Tips-for-creating-a-data-classification-policy 
+- https://iapp.org/about/what-is-privacy/ 
+- www.cmu.edu/iso/governance/guidelines/index.html 
+- http://www.cmu.edu/iso/governance/guidelines/data-classification.html#calculations
+- https://webcache.googleusercontent.com/search?q=cache:Q7X0-mX5hoAJ:https://www.isoc.org/isoc/conferences/ndss/11/pdf/2_2.pdf+&cd=1&hl=nl&ct=clnk&gl=nl
 
