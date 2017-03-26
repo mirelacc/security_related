@@ -5,7 +5,6 @@
 - https://www.wordfence.com/blog/2017/02/cloudflare-data-leak/
 - https://bugs.chromium.org/p/project-zero/issues/detail?id=1139
 
-
 Digital attack map:
 
 - http://www.digitalattackmap.com/#anim=1&color=0&country=ALL&list=0&time=17241&view=map
@@ -16,7 +15,7 @@ Researchers:
 - check among "following" on twitter!
 - https://twitter.com/binitamshah
 
-# Encryption
+Encryption
 
 - "Cryptography Terms and Concepts for Developers": https://dev.to/paragonie/you-wouldnt-base64-a-password-cryptography-terms-and-concepts-for-developers
 - "Mylar is an experimental research platform for building web applications with end-to-end encryption. Mylar encrypts data fields indicated as sensitive by a developer." https://css.csail.mit.edu/mylar/
@@ -27,8 +26,12 @@ Practicalities:
 - Singal vs. whatsapp http://security.stackexchange.com/questions/139493/is-signal-still-more-secure-than-whatsapp
 - GPG (:/) https://moxie.org/blog/gpg-and-me/
 
+Privacy and identity:
 
-# Rootkits & RKHUNTER
+- Privacy in Online Social Networks: http://doc.utwente.nl/81270/1/Beye12privacy.pdf
+- Stealing Reality: When Criminals Become Data Scientists (or Vice Versa) http://web.media.mit.edu/~yanival/IEEE_Intelligent_Systems.pdf
+
+Rootkits & RKHUNTER
 
 - https://en.wikipedia.org/wiki/Rkhunter
 - https://d0hnuts.com/2016/12/21/basics-of-making-a-rootkit-from-syscall-to-hook/
