@@ -5,6 +5,8 @@
 - https://blendle.com/i/trouw/leo-waar-blijft-die-quantum-computer/bnl-trn-20161126-7396321
 - https://hackage.haskell.org/package/QIO
 - https://www.sciencenews.org/article/millions-atoms-entangled-record-breaking-quantum-tests
+- https://www.technologyreview.com/s/603495/10-breakthrough-technologies-2017-practical-quantum-computers/
+
 
 Quantum recommendation systems:
 
