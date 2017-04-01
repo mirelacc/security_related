@@ -5,7 +5,7 @@
 - https://www.wordfence.com/blog/2017/02/cloudflare-data-leak/
 - https://bugs.chromium.org/p/project-zero/issues/detail?id=1139
 - https://securedorg.github.io/RE101/section1/
-
+- https://www.engadget.com/2017/03/31/when-the-s-in-https-also-stands-for-shady/
 
 Digital attack map:
 
