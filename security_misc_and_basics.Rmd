@@ -6,6 +6,7 @@
 - https://bugs.chromium.org/p/project-zero/issues/detail?id=1139
 - https://securedorg.github.io/RE101/section1/
 - https://www.engadget.com/2017/03/31/when-the-s-in-https-also-stands-for-shady/
+- https://www.theregister.co.uk/2017/01/09/mongodb/
 
 Digital attack map:
 
