@@ -55,6 +55,9 @@ Rootkits & RKHUNTER
 
 - https://en.wikipedia.org/wiki/Botnet
 
+# misc
+
+- https://www.scmagazineuk.com/a-community-approach-to-threat-intel-standards-sharing-collaboration/article/643838/
 
 
 # Dark
