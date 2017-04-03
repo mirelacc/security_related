@@ -1,3 +1,4 @@
+News:
 
 - http://www.techrepublic.com/article/a-visual-map-of-emerging-cybersecurity-trends/
 - https://www.linkedin.com/pulse/responsible-disclosure-from-collaborative-security-olaf-kolkman?trk=hp-feed-article-title-publish
@@ -7,6 +8,7 @@
 - https://securedorg.github.io/RE101/section1/
 - https://www.engadget.com/2017/03/31/when-the-s-in-https-also-stands-for-shady/
 - https://www.theregister.co.uk/2017/01/09/mongodb/
+- http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005399
 
 Digital attack map:
 
