@@ -64,8 +64,9 @@ Rootkits & RKHUNTER
 
 - https://github.com/s-rah/onionscan
 - https://onionscan.org/
-- Trackers could unmask dark web users who think they’re anonymous https://www.newscientist.com/article/2126472-trackers-could-unmask-dark-web-users-who-think-theyre-anonymous
-
+- "Trackers could unmask dark web users who think they’re anonymous" https://www.newscientist.com/article/2126472-trackers-could-unmask-dark-web-users-who-think-theyre-anonymous
+- https://www.gwern.net/DNM%20arrests 
+- https://www.gwern.net/DNM%20archives
 
 
 
