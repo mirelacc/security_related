@@ -60,13 +60,20 @@ Rootkits & RKHUNTER
 - https://www.scmagazineuk.com/a-community-approach-to-threat-intel-standards-sharing-collaboration/article/643838/
 
 
-# Dark
+# DN's
 
 - https://github.com/s-rah/onionscan
 - https://onionscan.org/
 - "Trackers could unmask dark web users who think they’re anonymous" https://www.newscientist.com/article/2126472-trackers-could-unmask-dark-web-users-who-think-theyre-anonymous
 - https://www.gwern.net/DNM%20arrests 
 - https://www.gwern.net/DNM%20archives
+
+# NL
+
+- http://www.nwo.nl/actueel/nieuws/2013/ew/samenwerking-nederland-en-vs-in-onderzoek-cyber-security-in-volgende-fase.html 
+- https://www.dcypher.nl/nl/content/over-ons 
+- https://www.thehaguesecuritydelta.com/innovation/partners/partner/397-dcypher 
+- https://www.dcypher.nl/nl/content/deelnemers
 
 
 
