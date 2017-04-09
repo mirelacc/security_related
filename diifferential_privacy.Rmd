@@ -1,31 +1,22 @@
 
-## -  Differential privacy
+Differential privacy
 
-TL;DR version:
+- https://en.wikipedia.org/wiki/Differential_privacy
+- Cynthia Dwork, creator of: https://www.youtube.com/watch?v=OfWj89oRD7g (goes until #5)
+- The Algorithmic Foundations of Differential Privacy  www.nowpublishers.com/article/Details/TCS-042
+- Towards Practical Machine Learning with Differential Privacy and Beyond: https://www.youtube.com/watch?v=eKH7lqj7C8w
+- Privacy-Preserving Social Media Data Publishing https://arxiv.org/pdf/1701.01900.pdf repository.cmu.edu/cgi/viewcontent.cgi?article=1008&context=jpc
+- ->! "[...] we propose a framework for differentially privacy-preserving social media data publishing for the first time in literature" Privacy-Preserving Social Media Data Publishing https://arxiv.org/pdf/1701.01900.pdf
 
-https://en.wikipedia.org/wiki/Differential_privacy
+Criticism:
 
-Cynthia Dwork, creator of:
-https://www.youtube.com/watch?v=OfWj89oRD7g
-(goes until #5)
-
-Towards Practical Machine Learning with Differential Privacy and Beyond:
-https://www.youtube.com/watch?v=eKH7lqj7C8w
-
-
-## -  Criticism:
-
-http://heinonline.org/HOL/LandingPage?handle=hein.journals/vanep16&div=28&id=&page= 
-(pdf via jetlaw.org/google scholar)
-
-https://medium.com/@Practical/differential-privacy-considered-harmful-f420ce717846#.gjdk4gh0h
+- http://heinonline.org/HOL/LandingPage?handle=hein.journals/vanep16&div=28&id=&page= (pdf via jetlaw.org/google scholar)
+- https://medium.com/@Practical/differential-privacy-considered-harmful-f420ce717846#.gjdk4gh0h
 
 
-## -  Criticism of the criticism:
+Criticism of the criticism:
 
-https://github.com/frankmcsherry/blog/blob/master/posts/2016-02-03.md
-
-https://ergodicity.net/2014/11/03/an-exercise-in-uncareful-misreading/
-
-https://blogs.harvard.edu/infolaw/2016/05/17/diffensive-privacy/
+- https://github.com/frankmcsherry/blog/blob/master/posts/2016-02-03.md
+- https://ergodicity.net/2014/11/03/an-exercise-in-uncareful-misreading/
+- https://blogs.harvard.edu/infolaw/2016/05/17/diffensive-privacy/
 
