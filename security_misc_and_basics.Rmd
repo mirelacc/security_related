@@ -27,6 +27,11 @@ Encryption
 - "Mylar is an experimental research platform for building web applications with end-to-end encryption. Mylar encrypts data fields indicated as sensitive by a developer." https://css.csail.mit.edu/mylar/
 - PGP gone wrong: http://thehackernews.com/2017/03/decrypt-pgp-encryption.html
 
+Cloud:
+
+- https://books.google.nl/books?hl=en&lr=&id=CcHFDQAAQBAJ&oi=fnd&pg=PA288&ots=8Di10q0dyE&sig=hwXVGWV5Tarsnxl9IsZJkX9Lfk4#v=onepage&q&f=false
+- http://www.ibr.cs.tu-bs.de/users/brenner/papers/2016-middleware-brenner-securekeeper.pdf
+
 Practicalities:
 
 - Singal vs. whatsapp http://security.stackexchange.com/questions/139493/is-signal-still-more-secure-than-whatsapp
