@@ -9,6 +9,9 @@ News:
 - https://www.engadget.com/2017/03/31/when-the-s-in-https-also-stands-for-shady/
 - https://www.theregister.co.uk/2017/01/09/mongodb/
 - http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005399
+- http://www.ieee-security.org/TC/EuroSP2017/accepted.php (bijv. interessant: Secure Queries on an Encrypted Multi-Writer Table)
+- http://www.ieee-security.org/TC/EuroSP2017/program-posters.php
+- http://www.ieee-security.org/TC/EuroSP2017/program.php
 
 Digital attack map:
 
@@ -18,6 +21,7 @@ Researchers:
 
 - http://www.patrickmcdaniel.org/
 - check among "following" on twitter!
+- http://jbonneau.com/
 - https://twitter.com/binitamshah
 - https://pdos.csail.mit.edu/archive/kaashoek/
 
