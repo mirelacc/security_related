@@ -19,6 +19,7 @@ Researchers:
 - http://www.patrickmcdaniel.org/
 - check among "following" on twitter!
 - https://twitter.com/binitamshah
+- https://pdos.csail.mit.edu/archive/kaashoek/
 
 Encryption
 
