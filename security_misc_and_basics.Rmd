@@ -13,6 +13,10 @@ News:
 - http://www.ieee-security.org/TC/EuroSP2017/program-posters.php
 - http://www.ieee-security.org/TC/EuroSP2017/program.php
 
+Some advice:
+
+- https://medium.com/@thegrugq/stop-fabricating-travel-security-advice-35259bf0e869
+
 Digital attack map:
 
 - http://www.digitalattackmap.com/#anim=1&color=0&country=ALL&list=0&time=17241&view=map
