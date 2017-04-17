@@ -14,6 +14,7 @@ News:
 - http://www.ieee-security.org/TC/EuroSP2017/program.php
 - https://citizenlab.org/2017/02/black-code-documentary-in-theatres-april-14th-screening-at-the-human-rights-watch-film-festival/
 - http://www.theglobeandmail.com/report-on-business/rob-magazine/why-canadas-hacker-king-is-very-afraid/article34471769/
+- https://www.forbes.com/sites/mariyayao/2017/04/14/your-electronic-medical-records-can-be-worth-1000-to-hackers/#3bab277150cf
 
 Some advice:
 
